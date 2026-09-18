@@ -1,2 +1,3 @@
-# Taller_Git_SimónPerdomo
-Actividad de Lenguajes Digitales II, 2do Corte
+# Actividad en Clase GIT
+Actividad de Lenguajes Digitales II - 2do Corte
+Simón Perdomo
