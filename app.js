@@ -1,0 +1,1 @@
+console.log("Funcionalidad del carrito de compras inicializada");
